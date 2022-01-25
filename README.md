@@ -1,4 +1,4 @@
-This is the repository for all ligma-boolz vst plugins. 
+This is the repository for all Ligma-Boolz vst plugins. 
 
 <!---
 ligma-boolz/ligma-boolz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
